@@ -10,7 +10,13 @@ module.exports = {
     // You can overwrite values here that are used for the SEO component
     // Of course you can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/master/themes/gatsby-theme-cara/gatsby-config.js
-    siteTitleAlt: `Cara - Gatsby Starter Portfolio`,
+    siteTitleAlt: `Currium Vitae - Vũ Vương Vĩ`,
+    siteTitle: `Vũ Vương Vĩ CV`,
+    siteHeadline: `Vũ Vương Vĩ`,
+    siteUrl: `https://vuvuongvi.github.io/vuvuongvi-gatsby-cv/`,
+    siteDescription: `This site CV site of Vũ Vương Vĩ in Xì Gòn`,
+    siteLanguage: `en`,
+    author: `@vuvuongvi`,
   },
   plugins: [
     {
@@ -29,7 +35,7 @@ module.exports = {
       options: {
         name: `Cara - @lekoarts/gatsby-theme-cara`,
         short_name: `Cara`,
-        description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+        description: `This is github personal site for Vu Vuong Vi`,
         start_url: `/`,
         background_color: `#141821`,
         theme_color: `#f6ad55`,
